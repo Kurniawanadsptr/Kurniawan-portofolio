@@ -1,5 +1,5 @@
-import ScrollLink from './helper/ScrollLink'; // Import the Client Component
-
+import dynamic from "next/dynamic";
+const ScrollLink = dynamic(() => import("./helper/ScrollLink"), { ssr: false });
 function Navbar() {
   return (
     <nav className="bg-transparent">
