@@ -10,7 +10,7 @@ const blogPosts = [
     technology: ['NextJS', 'Express JS', 'Tailwind'],
     imageUrl: '/projects/fansite-lyn.png',
     avatarUrl: 'https://i.pravatar.cc/150?img=1',
-    linkUrl: 'https://www.jesslynelly.com/'
+    linkUrl: 'https://www.jesslynelly.id/'
   },
   {
     id: 2,
